@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AI_zad1:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1aa6420-b2be-42e7-98c6-5efc7cc331bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ai/code/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ai/code/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ai/code/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ai/code/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ai/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ai/code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ai/code/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ai/code/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ai/code/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ai/code/State.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ej6h5SoPW12tLzLGhWP0jhcI4P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunParams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunParams2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunParamsBFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunParamsDFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunParamsHamm.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RunParamsManh.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/48725/Desktop/AI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.RunParamsHamm">
+    <configuration name="RunParamsBFS" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ai.code.Main" />
+      <module name="AI_zad1" />
+      <option name="PROGRAM_PARAMETERS" value="bfs LURD data\plik1.txt data\plik2.txt data\plik3.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunParamsDFS" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ai.code.Main" />
+      <module name="AI_zad1" />
+      <option name="PROGRAM_PARAMETERS" value="dfs RDUL data\plik1.txt data\plik2.txt data\plik3.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunParamsHamm" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ai.code.Main" />
+      <module name="AI_zad1" />
+      <option name="PROGRAM_PARAMETERS" value="astr hamm data\plik1.txt data\plik2.txt data\plik3.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunParamsManh" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ai.code.Main" />
+      <module name="AI_zad1" />
+      <option name="PROGRAM_PARAMETERS" value="astr manh data\plik1.txt data\plik2.txt data\plik3.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RunParamsBFS" />
+      <item itemvalue="Application.RunParamsManh" />
+      <item itemvalue="Application.RunParamsDFS" />
+      <item itemvalue="Application.RunParamsHamm" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1aa6420-b2be-42e7-98c6-5efc7cc331bf" name="Changes" comment="" />
+      <created>1712405757942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712405757942</updated>
+      <workItem from="1712405759210" duration="4241000" />
+      <workItem from="1712444770713" duration="2086000" />
+      <workItem from="1712572369761" duration="6536000" />
+      <workItem from="1712588141811" duration="8000" />
+      <workItem from="1712588156521" duration="4726000" />
+      <workItem from="1712651921009" duration="1000" />
+      <workItem from="1712656202698" duration="2871000" />
+      <workItem from="1712664170620" duration="54000" />
+      <workItem from="1712666388447" duration="3111000" />
+      <workItem from="1712687970189" duration="67000" />
+      <workItem from="1712700186535" duration="529000" />
+      <workItem from="1712749859516" duration="43000" />
+      <workItem from="1712750052199" duration="8667000" />
+      <workItem from="1712819921148" duration="2334000" />
+      <workItem from="1712842129150" duration="870000" />
+      <workItem from="1712920662726" duration="336000" />
+      <workItem from="1713353080308" duration="11113000" />
+      <workItem from="1713693761501" duration="26000" />
+      <workItem from="1713795621745" duration="2749000" />
+      <workItem from="1713824960806" duration="31000" />
+      <workItem from="1713962353178" duration="6449000" />
+      <workItem from="1714041236052" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="closed_list" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
